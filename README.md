@@ -1,2 +1,3 @@
 # test-green
  
+React is an open-source JavaScript library used for building user interfaces or UI components. It was developed by Facebook and released in 2013. React allows developers to create reusable UI components and build complex user interfaces with ease. It uses a declarative approach for programming, which means that developers can describe the desired outcome of their code and let React handle the process of updating the UI as needed. React also uses a virtual DOM (document object model) which allows it to efficiently update parts of the UI without having to re-render the entire page.
